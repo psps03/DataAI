@@ -1,2 +1,2 @@
-# DataAI
-Projects and demos from data AI training
+# Cleaning Data
+Demonstration on how to handle missing values in a dataset.
